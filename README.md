@@ -15,5 +15,4 @@ Calculate Entrophy
 -->Make the best split
 -->Building a tree
 
-2022 CONDUCTED
 2023 03 22 UPLOADED
